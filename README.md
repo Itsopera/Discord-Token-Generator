@@ -6,7 +6,7 @@
 
 - its obfuscated because i dont want people to skid it
 
-#run it and choose the amount of threads, it will start generating in front of you
+# run it and choose the amount of threads, it will start generating in front of you
 
 - This program has 2 modes, chill mode, and token generation mode
 
